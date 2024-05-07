@@ -1,0 +1,12 @@
+output/
+roop/__pycache__
+roop/processors/frame/__pycache__
+roop/frame/__pycache__
+flagged/
+*.jpg
+*.pyc
+*.pth
+*.onnx
+.idea
+.vscode
+models/
