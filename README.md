@@ -26,10 +26,7 @@ license: creativeml-openrail-m
 ## 🚀🥤Generated Swapped Outcome Image
 
 
-![alt text](assets/roop2.png)
-
-
-.
+![alt text](assets/roop2.jpg)
 
 .
 
