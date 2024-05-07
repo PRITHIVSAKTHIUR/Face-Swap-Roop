@@ -1,0 +1,3 @@
+streamlit
+groq
+python-dotenv
