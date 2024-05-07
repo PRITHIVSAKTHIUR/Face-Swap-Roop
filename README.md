@@ -17,9 +17,22 @@ license: creativeml-openrail-m
 
 🚀To Clone Just Install Git Past the Command : git clone https://huggingface.co/spaces/prithivMLmods/Face-Swap-Roop
 
-📂➡️ Source and Target Image for Processing
+## 📂➡️ Source and Target Image for Processing
 
 
+![alt text](assets/roop1.png)
 
-🚀🥤Generated Swapped Outcome Image
+
+## 🚀🥤Generated Swapped Outcome Image
+
+
+![alt text](assets/roop2.png)
+
+
+.
+
+.
+
+.
+
 
