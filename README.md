@@ -15,7 +15,7 @@ license: creativeml-openrail-m
 
 🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/Face-Swap-Roop
 
-🚀To Clone Just Install Git Past the Command : git clone https://huggingface.co/spaces/prithivMLmods/Text-Tokenizer-Playground
+🚀To Clone Just Install Git Past the Command : git clone https://huggingface.co/spaces/prithivMLmods/Face-Swap-Roop
 
 📂➡️ Source and Target Image for Processing
 
