@@ -32,4 +32,5 @@ license: creativeml-openrail-m
 
 .
 
+⚠️ Advised to stay within the limit, it is strongly discouraged to violate age policies.🗞️
 
